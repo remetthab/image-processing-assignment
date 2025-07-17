@@ -1,0 +1,44 @@
+# AI, ML, DL, Data Science - Overview
+
+✅ What is AI (Artificial Intelligence)?
+AI is the ability of a machine to do tasks that normally need human thinking—like learning, problem-solving, and decision making.
+
+✅ What is ML (Machine Learning)?
+ML is a part (subset) of AI. It helps machines learn from data without being directly programmed. Example: Email spam filters.
+
+✅ What is DL (Deep Learning)?
+DL is a subset of ML. It uses big neural networks (like the human brain) for tasks like image recognition, voice recognition, etc.
+
+✅ What is Data Science?
+It is the process of collecting, analyzing, and making decisions from large amounts of data. It uses AI, ML, statistics, etc.
+
+✅ What is Data Analytics?
+It focuses on analyzing raw data and finding useful information, trends, or patterns from it.
+
+✅ What is Computer Vision?
+It is a part of AI that deals with images and videos. Tasks include:
+- Image classification
+- Object detection
+- Image segmentation
+- Tracking
+
+✅ What is NLP (Natural Language Processing)?
+It helps machines understand and respond to human language (text or speech). Example: Chatbots, Google Translate.
+
+✅ What is LLM (Large Language Models)?
+LLMs are advanced models trained on lots of text (like ChatGPT) to understand and generate language.
+
+✅ What is GenAI (Generative AI)?
+GenAI can create new content like text, images, music, code, etc. Example: DALL·E, ChatGPT.
+
+✅ Relationships:
+- AI is the main field.
+  - ML is a part of AI.
+    - DL is a part of ML.
+- Data Science uses AI/ML.
+- Computer Vision & NLP are applications of AI.
+
+✅ Tools used:
+- Python
+- OpenCV
+- GitHub
